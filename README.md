@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adambakri-dev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Software Engineering
+- 💡 Learning Java and Python
 - 💞️ I’m looking to collaborate on intel/microsoft
 - 📫 How to reach me adam.bakri2018@gmail.com
 - 😄 Pronouns: he
